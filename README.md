@@ -10,7 +10,7 @@ Buscando meu primeiro projeto real e sempre aprendendo algo novo!
 
 ### 📌 Meus Projetos
 - **[O Rei dos Camarões](https://github.com/alexsandofelix2607-svg/PROJETOS)** - Landing page responsiva
-- **[DESAFIO-CSS2](https://github.com/alexsandofelix2607-svg/DESAFIO-CSS2)** - Site de compras mobile  
+- **[Easy-Shopping-Via-Mobile](https://github.com/alexsandofelix2607-svg/DESAFIO-CSS2)** - Site de compras mobile  
 - **[DESAFIO-CSS-4](https://github.com/alexsandofelix2607-svg/DESAFIO-CSS-4)** - Site para PetShop
 
 ### 🛠️ Estudando:
