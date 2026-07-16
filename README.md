@@ -9,9 +9,21 @@ Estudante de Front-end focado em criar sites responsivos com HTML, CSS e JavaScr
 Buscando meu primeiro projeto real e sempre aprendendo algo novo!
 
 ### 📌 Meus Projetos
-- **[O Rei dos Camarões](https://github.com/alexsandofelix2607-svg/PROJETOS)** - Landing page responsiva
-- **[Easy-Shopping-Via-Mobile](https://github.com/alexsandofelix2607-svg/DESAFIO-CSS2)** - Site de compras mobile  
-- **[DESAFIO-CSS-4](https://github.com/alexsandofelix2607-svg/DESAFIO-CSS-4)** - Site para PetShop
+- **Nós Nos Importamos - Com o Seu Pet** 🐾
+  `Landing page responsiva` para clínica veterinária e pet shop. 
+  [🔗 Ver Repositório](https://github.com/alexsandofelix2607-svg/We-Care-About-Your-Pet)
+
+- **Multi Category Store** 🛒
+  `Landing page responsiva` base para qualquer loja: cafeteria, mercado, roupas.
+  [🔗 Ver Repositório](https://github.com/alexsandofelix2607-svg/multi-category-store-landing)
+
+- **O Rei dos Camarões** 🍤
+  `Landing page responsiva` para peixaria com delivery, cardápio e WhatsApp.
+  [🔗 Ver Repositório](https://github.com/alexsandofelix2607-svg/PROJETOS)
+
+- **Easy Shopping Via Mobile** 📱
+  `Site de compras` mobile responsivo.
+  [🔗 Ver Repositório](https://github.com/alexsandofelix2607-svg/Easy-Shopping-Via-Mobile)
 
 ### 🛠️ Estudando:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
