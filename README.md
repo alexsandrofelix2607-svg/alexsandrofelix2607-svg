@@ -12,7 +12,7 @@ Buscando meu primeiro projeto real e sempre aprendendo algo novo!
 
 - **Recriação imersiva da área de membros DevClub.** 💻
   `Landing page responsiva` Design futurista, e navegação por scroll..
-  [🔗 Ver Repositório](https://github.com/alexsandrofelix2607-svg/DevClub)
+   **🔗 [Ver Site](https://alexsandrofelix2607-svg.github.io/DevClub/)** | **💻 [Ver Repositório](https://github.com/alexsandrofelix2607-svg/DevClub)**
 
 - **Nós Nos Importamos - Com o Seu Pet** 🐾
   `Landing page responsiva` para clínica veterinária e pet shop. 
