@@ -10,21 +10,17 @@ Buscando meu primeiro projeto real e sempre aprendendo algo novo!
 
 ### 📌 Meus Projetos
 
-- **Recriação imersiva da área de membros DevClub.** 💻
-  `Landing page responsiva` Design futurista, e navegação por scroll..
-   **🔗 [Ver Site](https://alexsandrofelix2607-svg.github.io/DevClub/)** | **💻 [Ver Repositório](https://github.com/alexsandrofelix2607-svg/DevClub)**
+- 💊 **Drogaria do Futuro** - Landing page responsiva para drogaria em Manaus, AM. Pedido direto pelo WhatsApp, localização e horários de atendimento. [🔗 Ver Site](https://drogariadofuturo.github.io/Site-drogaria/) | [📁 Ver Repositório](https://github.com/drogariadofuturo/Site-drogaria)
 
-- **Nós Nos Importamos - Com o Seu Pet** 🐾
-  `Landing page responsiva` para clínica veterinária e pet shop. 
-  [🔗 Ver Repositório](https://github.com/alexsandrofelix2607-svg/We-Care-About-Your-Pet)
+- 🚀 **DevClub** - Recriação imersiva da área de membros DevClub. Landing page responsiva, design futurista e navegação por scroll. [🔗 Ver Site](https://alexsandrofelix2607-svg.github.io/DevClub/) | [📁 Ver Repositório](https://github.com/alexsandrofelix2607-svg/DevClub)
 
-- **Multi Category Store** 🛒
-  `Landing page responsiva` base para qualquer loja: cafeteria, mercado, roupas.
-  [🔗 Ver Repositório](https://github.com/alexsandrofelix2607-svg/multi-category-store-landing)
+- 💱 **Conversor de Moedas** - Converte Dólar, Euro, Libra e Bitcoin em tempo real com HTML, CSS e JavaScript. [🔗 Ver Site](https://alexsandrofelix2607-svg.github.io/conversor-de-moedas/) | [📁 Ver Repositório](https://github.com/alexsandrofelix2607-svg/conversor-de-moedas)
 
-- **Easy Shopping Via Mobile** 📱
-  `Site de compras` mobile responsivo.
-  [🔗 Ver Repositório](https://github.com/alexsandrofelix2607-svg/Easy-Shopping-Via-Mobile)
+- 🐾 **Nós Nos Importamos - Com o Seu Pet** - Landing page responsiva para clínica veterinária e pet shop. [📁 Ver Repositório](https://github.com/alexsandrofelix2607-svg/We-Care-About-Your-Pet)
+
+- 🛒 **Multi Category Store** - Landing page responsiva base para qualquer loja: cafeteria, mercado, roupas. [📁 Ver Repositório](https://github.com/alexsandrofelix2607-svg/multi-category-store-landing)
+
+- 📱 **Easy Shopping Via Mobile** - Site de compras mobile responsivo. [📁 Ver Repositório](https://github.com/alexsandrofelix2607-svg/Easy-Shopping-Via-Mobile)
 
 ### 🛠️ Estudando:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
